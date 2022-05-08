@@ -324,7 +324,7 @@ plugins: [
 ## Source
 
 * GitHub: <https://github.com/okingiboy/holder>
-* GitLab: <https://gitlab.com/okingiboy/holder>
+* GitLab: <https://gitlab.com/imsky/holder>
 
 ## License
 
