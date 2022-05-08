@@ -5,10 +5,10 @@
   "summary": "client side image placeholders",
   "description": "Holder uses SVG to render image placeholders entirely in browser.",
   "author": {
-    "name": "James Chukwu",
-    "url": "https://okingiboy.co"
+    "name": "Ivan Malopinsky",
+    "url": "https://imsky.co"
   },
-  "homepage": "http://okingiboy/holderjs.com",
+  "homepage": "http://holderjs.com",
   "license": "MIT",
   "keywords": [
     "images",
@@ -22,10 +22,10 @@
   "main": "holder.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okingiboy/holder.git"
+    "url": "git://github.com/imsky/holder.git"
   },
   "bugs": {
-    "url": "https://github.com/okingiboy/holder/issues"
+    "url": "https://github.com/imsky/holder/issues"
   },
   "devDependencies": {
     "component-type": "1.1.0",

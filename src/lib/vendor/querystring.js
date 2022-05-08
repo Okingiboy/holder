@@ -1,6 +1,6 @@
 //Modified version of component/querystring
 //Changes: updated dependencies, dot notation parsing, JSHint fixes
-//Fork at https://github.com/okingiboy/querystring
+//Fork at https://github.com/imsky/querystring
 
 /**
  * Module dependencies.

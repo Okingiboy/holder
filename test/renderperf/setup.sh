@@ -7,5 +7,5 @@ mkdir -p releases
 for release in ${RELEASES[*]}
 do
     echo "Downloading Holder $release"
-    wget -qO- https://github.com/okingiboy/holder/archive/$release.tar.gz | tar xz -C releases/
+    wget -qO- https://github.com/imsky/holder/archive/$release.tar.gz | tar xz -C releases/
 done

@@ -2,10 +2,10 @@
 
 Holder - client side image placeholders
 Version 2.9.9+jl7z
-© 2022 James Chukwu - https://okingiboy.co
+© 2021 Ivan Malopinsky - https://imsky.co
 
 Site:     http://holderjs.com
-Issues:   https://github.com/okingiboy/holder/issues
+Issues:   https://github.com/imsky/holder/issues
 License:  MIT
 
 */
@@ -302,7 +302,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/*
 	Holder.js - client side image placeholders
-	(c) 2012-2022 James Chukwu - https://okingiboy.co
+	(c) 2012-2020 Ivan Malopinsky - https://imsky.co
 	*/
 
 	module.exports = __webpack_require__(1);
@@ -314,7 +314,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/* WEBPACK VAR INJECTION */(function(global) {/*
 	Holder.js - client side image placeholders
-	(c) 2012-2022 James Chukwu - http://okingiboy.co
+	(c) 2012-2020 Ivan Malopinsky - http://imsky.co
 	*/
 
 	//Libraries and functions
