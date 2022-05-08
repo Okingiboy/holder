@@ -1,5 +1,5 @@
 {
-    "name": "imsky/holder",
+    "name": "okingiboy/holder",
     "description": "Client-side image placeholders.",
     "homepage": "http://holderjs.com",
     "keywords": [
@@ -14,8 +14,8 @@
     "type": "component",
     "authors": [
         {
-            "name": "Ivan Malopinsky",
-            "homepage": "http://imsky.co"
+            "name": "James Chukwu",
+            "homepage": "http://okingiboy.co"
         }
     ],
     "require": {

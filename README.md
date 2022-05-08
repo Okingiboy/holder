@@ -1,6 +1,6 @@
 # Holder
 
-![](http://imsky.github.io/holder/images/header.png)
+![](http://okingiboy.github.io/holder/images/header.png)
 
 Holder renders image placeholders in browser using SVG.
 
@@ -9,7 +9,7 @@ Used by thousands of [open source projects](https://github.com/search?q=holder.j
 No extra requests, small bundle size, highly customizable.
 
 [![npm](https://img.shields.io/npm/v/holderjs.svg)](https://www.npmjs.com/package/holderjs)
-[![Travis Build Status](https://img.shields.io/travis/imsky/holder.svg)](https://travis-ci.org/imsky/holder)
+[![Travis Build Status](https://img.shields.io/travis/imsky/holder.svg)](https://travis-ci.org/okingiboy/holder)
 [![Package Quality](http://npm.packagequality.com/shield/holderjs.svg)](http://packagequality.com/#?package=holderjs)
 [![NerdyData Popularity](https://badges.nerdydata.com/1cf03fe7-0e02-40ef-be69-f00ca9547fc9)](https://nerdydata.com/technology-reports/Holder.js/1cf03fe7-0e02-40ef-be69-f00ca9547fc9)
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/holderjs/badge?style=rounded)](https://www.jsdelivr.com/package/npm/holderjs)
@@ -74,7 +74,7 @@ Placeholder options are set through URL properties, e.g. `holder.js/300x200?x=y&
 
 ### Themes
 
-![](http://imsky.github.io/holder/images/holder_sky.png)![](http://imsky.github.io/holder/images/holder_vine.png)![](http://imsky.github.io/holder/images/holder_lava.png)
+![](http://okingiboy.github.io/holder/images/holder_sky.png)![](http://okingiboy.github.io/holder/images/holder_vine.png)![](http://okingiboy.github.io/holder/images/holder_lava.png)
 
 Holder includes support for themes, to help placeholders blend in with your layout.
 
@@ -284,7 +284,7 @@ Holder is compatible with ``lazyload.js`` and works with both fluid and fixed-wi
 
 ## Using with React
 
-When using Holder in a React component, execute `Holder.run` in `componentDidMount` to enable rendering after state changes. See [this issue](https://github.com/imsky/holder/issues/225) for more details.
+When using Holder in a React component, execute `Holder.run` in `componentDidMount` to enable rendering after state changes. See [this issue](https://github.com/okingiboy/holder/issues/225) for more details.
 
 ## Using with Vue
 
@@ -323,8 +323,8 @@ plugins: [
 
 ## Source
 
-* GitHub: <https://github.com/imsky/holder>
-* GitLab: <https://gitlab.com/imsky/holder>
+* GitHub: <https://github.com/okingiboy/holder>
+* GitLab: <https://gitlab.com/okingiboy/holder>
 
 ## License
 
@@ -332,4 +332,4 @@ Holder is provided under the [MIT License](http://opensource.org/licenses/MIT).
 
 ## Credits
 
-Holder is a project by [Ivan Malopinsky](http://imsky.co).
+Holder is a project by [James Chukwu](http://okingiboy.co).
