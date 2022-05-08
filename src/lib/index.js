@@ -1,6 +1,6 @@
 /*
 Holder.js - client side image placeholders
-(c) 2012-2022 Ivan Malopinsky - http://okingiboy.co
+(c) 2012-2022 James Chukwu - http://okingiboy.co
 */
 
 //Libraries and functions
