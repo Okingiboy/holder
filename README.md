@@ -323,7 +323,7 @@ plugins: [
 
 ## Source
 
-* GitHub: <https://github.com/okingiboy/holder>
+* GitHub: <https://github.com/imsky/holder>
 * GitLab: <https://gitlab.com/imsky/holder>
 
 ## License
