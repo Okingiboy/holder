@@ -323,8 +323,8 @@ plugins: [
 
 ## Source
 
-* GitHub: <https://github.com/imsky/holder>
-* GitLab: <https://gitlab.com/imsky/holder>
+* GitHub: <https://github.com/okingiboy/holder>
+* GitLab: <https://gitlab.com/okingiboy/holder>
 
 ## License
 
@@ -332,4 +332,4 @@ Holder is provided under the [MIT License](http://opensource.org/licenses/MIT).
 
 ## Credits
 
-Holder is a project by [Ivan Malopinsky](http://imsky.co).
+Holder is a project by [James Chukwu](http://okingiboy.co).
