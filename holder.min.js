@@ -4,7 +4,7 @@ Holder - client side image placeholders
 Version 2.9.9+jl7z
 © 2022 James Chukwu - https://okingiboy.co
 
-Site:     http://holderjs.com
+Site:     http://okingiboy/holderjs.com
 Issues:   https://github.com/okingiboy/holder/issues
 License:  MIT
 
