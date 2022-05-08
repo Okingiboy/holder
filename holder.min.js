@@ -5,7 +5,7 @@ Version 2.9.9+jl7z
 © 2022 James Chukwu - https://okingiboy.co
 
 Site:     http://holderjs.com
-Issues:   https://github.com/okingiboy/holder/issues
+Issues:   https://github.com/imsky/holder/issues
 License:  MIT
 
 */

@@ -22,10 +22,10 @@
   "main": "holder.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/okingiboy/holder.git"
+    "url": "git://github.com/imsky/holder.git"
   },
   "bugs": {
-    "url": "https://github.com/okingiboy/holder/issues"
+    "url": "https://github.com/imsky/holder/issues"
   },
   "devDependencies": {
     "component-type": "1.1.0",
