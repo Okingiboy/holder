@@ -325,6 +325,8 @@ plugins: [
 
 * GitHub: <https://github.com/okingiboy/holder>
 * GitLab: <https://gitlab.com/imsky/holder>
+* Gitlab: <https://gitlab.com/b5972/rccgeverlastingkingchapel.com>
+
 
 ## License
 
