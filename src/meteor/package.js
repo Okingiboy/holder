@@ -2,7 +2,7 @@ Package.describe({
     summary: '%summary%',
     version: '%version%',
     name: 'imsky:holder',
-    git: 'https://github.com/imsky/holder',
+    git: 'https://github.com/okingiboy/holder',
 });
 
 Package.onUse(function(api) {
