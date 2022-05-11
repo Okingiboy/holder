@@ -1,7 +1,7 @@
 Package.describe({
     summary: '%summary%',
     version: '%version%',
-    name: 'imsky:holder',
+    name: 'okingiboy:holder',
     git: 'https://github.com/okingiboy/holder',
 });
 
