@@ -23,8 +23,8 @@ No extra requests, small bundle size, highly customizable.
 * [jsDelivr](https://www.jsdelivr.com): <https://www.jsdelivr.com/package/npm/holderjs>
 * [Bower](https://bower.io/): `bower install holderjs`
 * [Rails Assets](https://rails-assets.org): `gem 'rails-assets-holderjs'`
-* [Meteor](https://atmospherejs.com/): `meteor add imsky:holder`
-* [Composer](https://packagist.org/): `php composer.phar update imsky/holder`
+* [Meteor](https://atmospherejs.com/): `meteor add okingiboy:holder`
+* [Composer](https://packagist.org/): `php composer.phar update okingiboy/holder`
 * [NuGet](https://www.nuget.org/): `Install-Package Holder.js`
 
 ## Usage
