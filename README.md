@@ -9,7 +9,7 @@ Used by thousands of [open source projects](https://github.com/search?q=holder.j
 No extra requests, small bundle size, highly customizable.
 
 [![npm](https://img.shields.io/npm/v/holderjs.svg)](https://www.npmjs.com/package/holderjs)
-[![Travis Build Status](https://img.shields.io/travis/imsky/holder.svg)](https://travis-ci.org/imsky/holder)
+[![Travis Build Status](https://img.shields.io/travis/okingiboy/holder.svg)](https://travis-ci.org/okingiboy/holder)
 [![Package Quality](http://npm.packagequality.com/shield/holderjs.svg)](http://packagequality.com/#?package=holderjs)
 [![NerdyData Popularity](https://badges.nerdydata.com/1cf03fe7-0e02-40ef-be69-f00ca9547fc9)](https://nerdydata.com/technology-reports/Holder.js/1cf03fe7-0e02-40ef-be69-f00ca9547fc9)
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/holderjs/badge?style=rounded)](https://www.jsdelivr.com/package/npm/holderjs)
