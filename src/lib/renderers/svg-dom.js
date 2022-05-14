@@ -7,8 +7,8 @@ var SVG_NS = constants.svg_ns;
 
 var generatorComment = '\n' +
     'Created with Holder.js ' + constants.version + '.\n' +
-    'Learn more at http://okingiboy/holderjs.com\n' +
-    '(c) 2012-2022 James Chukwu - https://okingiboy.co\n';
+    'Learn more at http://holderjs.com\n' +
+    '(c) 2012-2022 James Chukwu - https://reactpotfoliojames.netlify.app\n';
 
 module.exports = (function() {
     //Prevent IE <9 from initializing SVG renderer

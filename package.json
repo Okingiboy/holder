@@ -6,9 +6,9 @@
   "description": "Holder uses SVG to render image placeholders entirely in browser.",
   "author": {
     "name": "James Chukwu",
-    "url": "https://okingiboy.co"
+    "url": "https://reactpotfoliojames.netlify.app"
   },
-  "homepage": "http://okingiboy/holderjs.com",
+  "homepage": "http://holderjs.com",
   "license": "MIT",
   "keywords": [
     "images",
@@ -25,7 +25,7 @@
     "url": "git://github.com/okingiboy/holder.git"
   },
   "bugs": {
-    "url": "https://github.com/okingiboy/holder/issues"
+    "url": "https://github.com/imsky/holder/issues"
   },
   "devDependencies": {
     "component-type": "1.1.0",

@@ -1,7 +1,7 @@
 {
     "name": "okingiboy/holder",
     "description": "Client-side image placeholders.",
-    "homepage": "http://okingiboy/holderjs.com",
+    "homepage": "http://everlastingkingchapel.com",
     "keywords": [
         "images",
         "placeholders",
@@ -15,7 +15,7 @@
     "authors": [
         {
             "name": "James Chukwu",
-            "homepage": "http://okingiboy.co"
+            "homepage": "https://reactpotfoliojames.netlify.app"
         }
     ],
     "require": {
