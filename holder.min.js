@@ -4,7 +4,7 @@ Holder - client side image placeholders
 Version 2.9.9+jl7z
 © 2022 James Chukwu - https://reactpotfoliojames.netlify.app
 
-Site:     http://everlastingkingchapel.com
+Site:     http://everlastingkingchapel.com/
 Issues:   https://github.com/imsky/holder/issues
 License:  MIT
 
